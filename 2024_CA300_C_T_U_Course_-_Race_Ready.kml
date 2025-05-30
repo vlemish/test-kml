@@ -3,6 +3,13 @@
   <Document>
     <name>2024 CA300 C_T_U Course - Race Ready</name>
     <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
       <LabelStyle>
         <scale>0</scale>
       </LabelStyle>
@@ -11,6 +18,13 @@
       </BalloonStyle>
     </Style>
     <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
       <LabelStyle>
         <scale>1.1</scale>
       </LabelStyle>
